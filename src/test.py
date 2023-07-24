@@ -16,3 +16,9 @@ name="Pathum";
 
 # boolean
 is_Good=True;
+
+
+# -----------get user inputs------------
+
+myName=input('What is Your name ? ');
+print('hi '+myName);
